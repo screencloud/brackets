@@ -45,7 +45,7 @@
         "jasmine-node": "1.11.0",
         "less-plugin-autoprefix": "^1.5.1",
         "load-grunt-tasks": "3.5.0",
-        "lodash": "4.15.0",
+        "lodash": "4.17.19",
         "phantomjs": "1.9.18",
         "pica": "^3.0.4",
         "q": "1.4.1",
